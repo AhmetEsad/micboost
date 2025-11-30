@@ -19,7 +19,7 @@ A simple, vibe-coded macOS menu bar app to boost your microphone volume and appl
 1. Download the latest `Micboost.dmg` from the Releases page.
 2. Open the file and drag **Micboost** into your **Applications** folder.
 
-> **Note:** Since I don't pay Apple $99/year, you will see a "Unverified Developer" warning. To fix this, go to **System Settings > Privacy & Security**, scroll to the bottom, and click **Open Anyway**.
+> **Note:** Since I don't pay Apple $99/year, you will see an "Unverified Developer" warning. To fix this, go to **System Settings > Privacy & Security**, scroll to the bottom, and click **Open Anyway**.
 
 ## How to Use
 1.  Install **BlackHole 2ch**.
