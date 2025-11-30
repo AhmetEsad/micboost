@@ -15,6 +15,10 @@ A simple, vibe-coded macOS menu bar app to boost your microphone volume and appl
 - macOS 13.0+
 - **[BlackHole 2ch](https://github.com/ExistentialAudio/BlackHole)** installed.
 
+## Installation
+1. Download the latest `Micboost.dmg` from the Releases page.
+2. Open the file and drag **Micboost** into your **Applications** folder.
+
 ## How to Use
 1.  Install **BlackHole 2ch**.
 2.  Open **Micboost**.
