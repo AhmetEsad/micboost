@@ -2,6 +2,8 @@
 
 A simple, vibe-coded macOS menu bar app to boost your microphone volume and apply a basic EQ profile.
 
+![Micboost Screenshot](Micboost.png)
+
 **Note:** This app requires the **BlackHole 2ch** virtual audio driver to function correctly.
 
 ## Features
